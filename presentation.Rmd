@@ -100,7 +100,7 @@ class: center, middle
 -> 해당 연구는 noninferiority trial로 기존 statin monotherapy와 비교해 **combination therapy가 cardiovascular event 발생을 예방하는 효과가 열등하지 않다**는 것을 증명하는 것이 일차 목표
 </br>
 ---
-## Methods - - Statistical analysis
+## Methods - Statistical analysis
 ###Noninferiority margin 
  - combination therapy가 statin monotherapy와 비교해 열등하지 않다는 결론을 내리기 위해 event rate 차이를 얼마나 허용할 것인가의 문제 
 </br>(fatal event일수록 margin이 작아야한다)</br>
@@ -218,19 +218,15 @@ class: center, middle
 - **중도절단(censoring)**
  - 중도절단 자료는 생존 시간에 대한 어느 정도의 정보는 가지고 있으나 정확한 생존 시간을 모를 때 발생
  - 관찰하고자 하는 event가 발생한 경우 중도절단이 아님
- - 중도절단의 예
+
+- 중도절단의 예
   - 연구 종료 시까지 사건이 일어나지 않음
   - 연구 기간 동안 추적 관찰 실패
   - 환자가 사망(사망원인이 관찰하고자 하는 event 아님)
   - 관찰 event가 아닌 다른 이유(약물 부작용 등)로 탈락
-  
-</br>
+
 - **생존시간(survival time)** : trial enrool ~ 첫 번째 event 발생
-</br>
-</br>
 - **중도절단시간** : event 발생이 아닌 이유로 중도 절단되었을 때 그 동안의 관찰기간
-</br>
-</br>
 ---
 ## Methods - Statistical analysis
 ### KM curve
@@ -303,18 +299,19 @@ class: center, middle
 <p style="text-align: center;">
 <img src='http://210.116.101.82:10008/files/R/rmarkdown/Table%204.jpg' width= '70%'/></p>
 ---
+
+
+## Results - Figure 3
+<p style="text-align: center;">
+<img src='http://210.116.101.82:10008/files/R/rmarkdown/Figure%203.jpg' width= '70%'/></p>
+---
 ## Results
 - 결과적으로, ASCVD 환자에서 중강도 스타틴+에제티미브 병용요법은 고강도 스타틴 단독요법과 비교해 3년 임상적 유효성이 비열등했다. 
 
 - LDL-콜레스테롤 목표치에 더 많이 도달했고 치료 중단 또는 용량 감량이 적게 이뤄졌다.
 
 - 하나의 약물의 용량을 늘리는 것보다 병용요법을 사용하면 더 큰 효능과 낮은 위험을 달성할 수 있다.
----
 
-
-## Results - Figure 3
-<p style="text-align: center;">
-<img src='http://210.116.101.82:10008/files/R/rmarkdown/Figure%203.jpg' width= '70%'/></p>
 ---
 ## Discussion - 연구 한계
 -	오픈 라벨 시험이므로 편향 초래 가능성
