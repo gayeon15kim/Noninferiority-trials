@@ -265,7 +265,7 @@ summary(fit)
 ---
 ## Methods - Figure 1
 <p style="text-align: center;">
-<img src='http://210.116.101.82:10008/files/R/rmarkdown/Figure%201.jpg' width= '85%'/></p>
+<img src='https://github.com/gayeon15kim/Noninferiority-trials/blob/main/Figure%201.jpg?raw=true' width= '85%'/></p>
 ---
 ## Methods - Figure 1
 - 기본적으로 임상 실험은 처음 치료군을 나눈대로 결과를 분석하는 ITT(intention to treat) 분석을 한다. A 치료를 받다가 모종의 이유로 B를 받게 되거나 치료를 안받게 되어도 일단 A 치료군으로 분석을 한다. 
