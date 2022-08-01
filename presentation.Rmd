@@ -285,7 +285,7 @@ class: center, middle
 ---
 ## Results - Table 1
 <p style="text-align: center;">
-<img src='http://210.116.101.82:10008/files/R/rmarkdown/Table%201.jpg' width= '52%'/></p>
+<img src='https://raw.githubusercontent.com/gayeon15kim/Noninferiority-trials/main/Table%201.jpg' width= '52%'/></p>
 ---
 ## Results - Table 2
 ![](http://210.116.101.82:10008/files/R/rmarkdown/Table%202.jpg)
